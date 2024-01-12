@@ -5,6 +5,6 @@ Technologies used:
 
 - Strapi (Headless CMS)
 - PostgreSQL
-- Render.com (Hosting of backend & database)
+- Render.com (Hosting of REST APi & postgreSQL database)
 
 See Front-end: [Guitar Glide Front-end](https://github.com/CodeBreaker518/guitar-glide-remix)
